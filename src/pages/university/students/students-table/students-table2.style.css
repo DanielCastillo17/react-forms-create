@@ -1,0 +1,29 @@
+.students-table2 {
+    width: 85%;
+    margin: 0 auto;
+    height: 30px;
+    border: 2px solid blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.name2{
+    text-align: left ;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+.sport2{
+    text-align: center ;
+    margin-top: 0px;
+    margin-left: 130px;
+    margin-bottom: 0px;    
+}
+
+.gender2{
+    text-align: right ;
+    margin-top: 0px;
+    margin-left: 130px;
+    margin-bottom: 0px;    
+}

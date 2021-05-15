@@ -1,0 +1,30 @@
+.students-row{
+    width: 75%;
+    margin: 0 auto;
+    height: 30px;
+    border: 2px solid green;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.statuscourse{
+color: red;
+}
+
+.imagen{
+width: 23px;
+float: right;
+}
+
+.name-value{
+    float: left ;
+    
+}
+
+.grade-value{
+    float: center ;
+}
+
+.gender-value{
+    float: right ;
+}
